@@ -31,7 +31,7 @@
         }
 
         static void Main(string[] args)
-        {
+        { 
             #region Task 01
             List<Product> catalog = new List<Product>()
             {
